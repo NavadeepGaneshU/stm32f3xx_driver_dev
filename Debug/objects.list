@@ -1,0 +1,4 @@
+"./Src/05_spi_tx_test_arduino.o"
+"./Startup/startup_stm32f303retx.o"
+"./drivers/src/stm32f303xx_gpio_driver.o"
+"./drivers/src/stm32f303xx_spi_driver.o"
